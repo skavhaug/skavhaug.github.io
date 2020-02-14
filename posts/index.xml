@@ -10,5 +10,24 @@
 	<atom:link href="http://www.slov.no/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Festivalkart</title>
+      <link>http://www.slov.no/posts/kart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.slov.no/posts/kart/</guid>
+      <description>Det ser ut til at det blir noen justeringer på festivalområdet i 2020. Dersom sommeren tillater blir det bla bygget en pub på stabburet.</description>
+    </item>
+    
+    <item>
+      <title>Overnatting</title>
+      <link>http://www.slov.no/posts/overnatting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.slov.no/posts/overnatting/</guid>
+      <description>Det er tre overnattigsmuligheter:
+ Telt bak låven eller i skogen. Vi gjør klar noen leirplasser, og alt som trengs da er et passende telt, liggeunderlag og en lett sovepose. Låven og stabburet. Her kan man finne seg en krok når puta lokker. Igjen, sovepose og liggeunderlag er nødvendig, evt hengekøye. Man bør ikke planlegge å legge seg tidlig med dette alternativet! Klekken hotell ligger et godt steinkast fra gården, og er et godt alternativ for de som vil sove i mye senger, dusje, spise god frokost, og eventuelt bade i basseng før festivallivet nok en gang lokker til SLØVe aktiviteter.</description>
+    </item>
+    
   </channel>
 </rss>

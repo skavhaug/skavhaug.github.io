@@ -12,12 +12,32 @@
     
     
     <item>
+      <title>Festivalkart</title>
+      <link>http://www.slov.no/posts/kart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.slov.no/posts/kart/</guid>
+      <description>Det ser ut til at det blir noen justeringer på festivalområdet i 2020. Dersom sommeren tillater blir det bla bygget en pub på stabburet.</description>
+    </item>
+    
+    <item>
       <title>Om festivalen</title>
       <link>http://www.slov.no/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.slov.no/about/</guid>
-      <description>SLØV så dagens lys første gang i 2018, og var motivert ut fra observasjonen at det er morsommere å drikke hjemmebrygg sammen med venner, og at man helst ikke skal drikke opp alt ølet man brygger selv. Kombinerer man dette med interesse for å leke, grille, stappe pølser og lage låvefest, blir SLØV en naturlig konsekvens.</description>
+      <description>SLØV så dagens lys første gang i 2018, og var motivert ut fra observasjonen at det er morsommere å drikke hjemmebrygg sammen med venner, og at man helst ikke skal drikke opp alt ølet man brygger selv. Kombinerer man dette med interesse for å leke, grille, stappe pølser og lage låvefest, blir SLØV en naturlig konsekvens.
+Festivalen er selvsagt et solid underskuddsforetak, men for å bøte på skadene på lommeboka tar vi et lite tilskudd som går til å kjøpe nødvendige saker som kjøtt til grilling og pølsestapping, festivalglass, enkel frokost og snacks.</description>
+    </item>
+    
+    <item>
+      <title>Overnatting</title>
+      <link>http://www.slov.no/posts/overnatting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.slov.no/posts/overnatting/</guid>
+      <description>Det er tre overnattigsmuligheter:
+ Telt bak låven eller i skogen. Vi gjør klar noen leirplasser, og alt som trengs da er et passende telt, liggeunderlag og en lett sovepose. Låven og stabburet. Her kan man finne seg en krok når puta lokker. Igjen, sovepose og liggeunderlag er nødvendig, evt hengekøye. Man bør ikke planlegge å legge seg tidlig med dette alternativet! Klekken hotell ligger et godt steinkast fra gården, og er et godt alternativ for de som vil sove i mye senger, dusje, spise god frokost, og eventuelt bade i basseng før festivallivet nok en gang lokker til SLØVe aktiviteter.</description>
     </item>
     
   </channel>
