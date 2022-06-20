@@ -5,11 +5,7 @@
     <link>http://www.slov.no/posts/</link>
     <description>Recent content in Informasjon on SLØV</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://www.slov.no/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://www.slov.no/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Festivalkart</title>
       <link>http://www.slov.no/posts/kart/</link>
